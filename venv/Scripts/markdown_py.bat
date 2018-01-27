@@ -1,0 +1,1 @@
+@"c:\users\administrator\pycharmprojects\untitled5\venv\scripts\python.exe" "c:\users\administrator\pycharmprojects\untitled5\venv\Scripts\markdown_py" %*
